@@ -9,7 +9,6 @@ This README.md file provides an overview of the tasks. I have successfully compl
 ## Conclusion
 My time at Codsoft during my internship has been incredibly valuable. I've had the chance to use my skills, work with talented colleagues, and play a significant role in important projects. I'm genuinely thankful for this opportunity and excited about my future growth and development as a developer. 
 
-I appreciate you acknowledging my achievements during my internship.
 
 
 
